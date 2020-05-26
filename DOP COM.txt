@@ -1,0 +1,34 @@
+Gradient    yalow-#f2e391  purpur-#ea8b89 beruza-#95e1d3
+background: -moz-linear-gradient(#D0ECF4, #5BC9E1, #D0ECF4);
+icon size- w55xh56
+margine right- 1px
+
+Icon pozition
+
+Left-78px
+top-207px
+r-78
+bot-207
+
+.Rectangle_14 {
+  background-image: -moz-linear-gradient( 90deg, rgb(252,227,138) 0%, rgb(243,129,129) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(252,227,138) 0%, rgb(243,129,129) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(252,227,138) 0%, rgb(243,129,129) 100%);
+  position: absolute;
+  left: 350px;
+  top: 970px;
+  width: 380px;
+  height: 470px;
+  z-index: 19;
+}
+
+.Rectangle_14_copy {
+  background-color: rgb(149, 225, 211);
+  position: absolute;
+  left: 360px;
+  top: 980px;
+  width: 380px;
+  height: 470px;
+  z-index: 18;
+}
+
