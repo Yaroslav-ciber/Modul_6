@@ -188,8 +188,8 @@ p {
 .amazing-content h3{
   text-transform: uppercase;
   text-align: left;
-  font-family: 'Montserrat' sans-serif;
-  color: #333333;
+  font-family: "Montserrat", sans-serif;
+  color: #4d4949;
   font-size: 14px;
   font-weight: 400;
 }
@@ -250,6 +250,7 @@ p {
   text-align: center;
   object-fit: cover;
   position: relative;
+  margin-top: 96px;
 }
 /* social icons */
 .social-list {
