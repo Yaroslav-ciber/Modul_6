@@ -197,14 +197,6 @@ p {
 .amazing-content p{
   text-align: left;
 }
-
-/* .who_we_are {
-  background: #fff;
-  margin-top: 95px;
-  text-align: center;
-  margin-bottom: 85px;
-} */
-
 .team-photo {
   position: relative;
   z-index: 1;
@@ -212,7 +204,6 @@ p {
 .media_object_self {
   position: relative;
 }
-
 .team-photo::before {
   content: "";
   position: absolute;
