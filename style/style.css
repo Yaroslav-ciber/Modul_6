@@ -241,7 +241,11 @@ p {
   text-align: center;
   object-fit: cover;
   position: relative;
-  margin-top: 96px;
+  margin-top: 96px;  
+}
+
+.photo_block:not(:last-child) {
+  margin-right: 25px;
 }
 /* social icons */
 .social-list {
